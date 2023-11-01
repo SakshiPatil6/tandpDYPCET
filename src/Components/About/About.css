@@ -1,0 +1,44 @@
+.aboutp{
+    border: 2rem  black;
+    text-align: center;
+    justify-content: center;
+    padding : 10px;
+    margin: 10px;
+  }
+  
+  .hometab{
+      text-align: justify;
+  }
+  .contactimg1{
+    padding: 10px,20px;
+    border: 3px solid rgb(7, 7, 7);
+    padding: 10px;
+    margin: 10px 50px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    width: 20vw;
+    height: 40vh;
+  }
+  .aboutimag{
+    width:30vw;
+    height:20vh;
+    align-self: center;
+  }
+  .infoo{
+    padding-top: 24px;
+    padding-left: 9px;
+    margin-left:3px;
+    cursor: zoom-in;
+    transition: .5s;
+    font-size: larger;
+  }
+  .tabcontent{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 110%;
+    height: 800px;
+    text-align: justify;
+    padding: 20px 100px;
+  }

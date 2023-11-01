@@ -1,0 +1,25 @@
+.cards-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    flex-wrap: wrap; /* Allow cards to wrap to the next line if needed */
+    gap: 20px;
+}
+
+.cards-container .cards-main {
+    display: flex;
+    flex-direction: column;
+    
+}
+Button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+
+    .cards-container {
+        flex-direction: column;
+    }
+}

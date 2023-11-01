@@ -1,0 +1,23 @@
+.dropdown-basic{
+    width: 300px;
+    height: 50px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.drop-item{
+    width: 300px;
+    height: 50px;
+}
+
+.back-btn-studplaced{
+    margin-left: 520px;
+}
+
+.btn-grp{
+    padding: 5rem;
+}
+.btn-grp Button{
+    margin: 3rem;
+    padding: 1rem;
+    margin-left: 3rem;
+}

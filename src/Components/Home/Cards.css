@@ -1,0 +1,49 @@
+.cards-container{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.card-group-spacing .card {
+    margin-right: 18px;
+}
+.card-width{
+    width: 90%; /* Set the card width to 100% of its container */
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    text-align: justify;
+}
+.card{
+    margin-left: 10px;
+}
+
+.about .row{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    gap: 1.5rem;
+    align-items: center;
+}
+.about .row .imageAbout{
+    flex: 1 1 45rem;
+}
+
+.about .row .imageAbout img{
+    width: 100%;
+}
+.about .row .contentAbout{
+    flex: 1 1 45rem;
+}
+.about .row .contentAbout h3{
+    color: var(--black);
+    font-size: 3rem;
+    padding: .5rem 0;
+}
+.about .row .contentAbout p{
+    color: var(--light-color);
+    font-size: 1.3rem;
+    padding: .5rem .5rem;
+    line-height: 2;
+}
+

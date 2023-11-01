@@ -1,0 +1,15 @@
+.readStudentByIdContainer{
+    border: 1px solid black;
+    background-color: rgba(215, 210, 210, 0.413);
+    height: 250px;
+    width: 300px;
+    margin: 40%;
+    padding: 1%;
+}
+.readStudentByIdContainer p{
+    text-align: center;
+}
+.readStudentByIdBtn{
+    margin: 10%;
+    margin-left: 40%;
+}
